@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">hadeeth</string>
+    <string name="hadith">hadith</string>
+    <string name="txt_ob_one">Selamat Datang di Hi\'dith!</string>
+    <string name="txt_tobone">Aplikasi ini menyediakan \nhadits shahih arba’in</string>
+    <string name="txt_tobtwo">Mulailah membaca dan menghafal \n42 hadits dengan Hi-dith</string>
+    <string name="txt_ob_two">Kumpulan hadits arba’in.</string>
+    <string name="txt_ob_three">Selamat membaca!</string>
+    <string name="txt_obthree">Dapatkan pahala dengan niat \nuntuk Allah semata.</string>
+
+</resources>
