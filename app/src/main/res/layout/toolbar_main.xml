@@ -12,7 +12,7 @@
                 android:layout_centerVertical="true"
                 android:layout_marginStart="20dp"
                 android:text="Hi'dith"
-                android:fontFamily="@font/regular"
+                android:fontFamily="@font/bold"
                 android:textColor= "@color/white"
                 android:textSize="28sp" />
 
